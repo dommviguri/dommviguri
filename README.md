@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**dommviguri/dommviguri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here is a little piece of myself:
 
 - 🌱 I’m currently finishing my QA Software engineer certificate at TripleTen

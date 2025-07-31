@@ -5,7 +5,7 @@
 
 
 
-Apasionada por la tecnología y disfrutando mi main quest de transición laboral a QA Tester
+Passionate for tech and enjoying my mainquest of starting my IT career:
 
   - 🌱 I’m currently finishing my QA Software engineer certificate at TripleTen
   - 🌱 I love learning so I'm constantly taking certifications on different programming skills and languages
@@ -14,4 +14,10 @@ Apasionada por la tecnología y disfrutando mi main quest de transición laboral
   - 😄 Pronouns: she/her
   - ⚡ Fun fact: I've been part of the gymnastics representative team for 10 years now!
 
-Lenguajes y herramientas
+<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<p align="left">
+<img src="https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white"/>
+<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Selenium_logo.svg/512px-Selenium_logo.svg.png)"/>
+<img src="https://simpleicons.org/icons/pytest.svg"/>
+</p>
+

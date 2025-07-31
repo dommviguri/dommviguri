@@ -12,7 +12,9 @@ Here is a little piece of myself:
 Hardskills:
 <p align="left">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
-<img scr"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Selenium_logo.svg/512px-Selenium_logo.svg.png">
-<img scr"https://api.badgr.io/public/badges/Q10KBL_YQXSW0lCQgYWx6Q/image">
+<img scr="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Selenium_logo.svg/512px-Selenium_logo.svg.png">
+<img scr="https://api.badgr.io/public/badges/Q10KBL_YQXSW0lCQgYWx6Q/image">
 </p>
+
+Softskills:
 

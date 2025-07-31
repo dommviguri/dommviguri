@@ -16,9 +16,10 @@ Passionate for tech and enjoying my mainquest of starting my IT career:
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
-  <img src="https://img.shields.io/badge/basic-Python"/>
-  <img src="https://img.shields.io/badge/understanding-APIs"/>
-  <img src="https://img.shields.io/badge/basic-Selenium"/>
-  <img src="https://img.shields.io/badge/basic-SQL"/>
+  <img src="https://img.shields.io/badge/Python"/>
+  <img src="https://img.shields.io/badge/APIs"/>
+  <img src="https://img.shields.io/badge/Pytest"/>
+  <img src="https://img.shields.io/badge/Selenium"/>
+  <img src="https://img.shields.io/badge/SQL"/>
 </p>
 

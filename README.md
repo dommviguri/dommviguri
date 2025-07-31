@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey there !!
 
 Here is a little piece of myself:
 

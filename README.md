@@ -1,4 +1,7 @@
-## Hey there !!
+
+<p>
+  <img scr="https://www.canva.com/design/DAGutEHvFUQ/LFWtNikPHei09NJs3lzhEg/view?utm_content=DAGutEHvFUQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h31bbefbeb8">
+</p>
 
 Here is a little piece of myself:
 
@@ -9,4 +12,5 @@ Here is a little piece of myself:
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I've been part of the gymnastics representative team for 10 years now!
 
+Hardskills
 

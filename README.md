@@ -8,3 +8,8 @@ Here is a little piece of myself:
 - 📫 How to reach me: domviguri@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I've been part of the gymnastics representative team for 10 years now!
+
+Hardskills:
+<p align="left">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+</p>

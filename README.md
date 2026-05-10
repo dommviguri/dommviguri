@@ -40,7 +40,7 @@ Passionate for tech and enjoying my mainquest IT career:
   <a href="mailto:domviguri@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="[https://www.linkedin.com/in/dominique-torres-viguri-302980306/]">
+  <a href="https://www.linkedin.com/in/dominique-torres-viguri-302980306">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>

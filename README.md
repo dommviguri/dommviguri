@@ -20,7 +20,6 @@ Passionate for tech and enjoying my mainquest IT career:
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
   <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest"/>
   <img src="https://img.shields.io/badge/Appium-6222C0?style=for-the-badge&logo=appium&logoColor=white" alt="Appium"/>
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
 </p>

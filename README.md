@@ -1,6 +1,3 @@
-
-# Hi there! I'm Dominique 👋
-
 <p align="center">
   <img src="assets/QA Software.jpg" alt="QA Software Banner" width="100%" style="border-radius: 8px;">
 </p>
